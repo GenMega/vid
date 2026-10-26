@@ -22,10 +22,11 @@ PROXY_PORT = "823"
 
 # Videos with their total lengths converted to seconds
 VIDEOS = {
-    "https://vidbunker.in/watch/jVpnNsOpZ": 5040,   # 1 hour 24 minutes (5,040s)
-    "https://vidbunker.in/watch/fvfdvfff": 9900,  # 2 hours 45 minutes (9,900s)
-    "https://vidbunker.in/watch/vdjcdexd": 1500,  # 25 minutes (1,500s)
-    "https://vidbunker.in/watch/vfjemc": 6660,    # 1 hour 51 minutes (6,660s)
+    "https://vidbunker.in/watch/2Ywre8YKt": 3835,   # 1 hour 24 minutes (5,040s)
+    "https://vidbunker.in/watch/jnJV2h4b7": 6073,  # 2 hours 45 minutes (9,900s)
+    "https://vidbunker.in/watch/tgUeCMCmb": 4714,  # 2 hours 45 minutes (9,900s)
+    "https://vidbunker.in/watch/ebY88kIWG": 5750,  # 25 minutes (1,500s)
+    "https://vidbunker.in/watch/ldwf9khXZ": 6809,    # 1 hour 51 minutes (6,660s)
 }
 
 
