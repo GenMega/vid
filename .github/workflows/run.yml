@@ -1,10 +1,14 @@
-name: Run Video Bot
+name: 24x7 Video Bot Runner
 
 on:
-  workflow_dispatch: # This creates the manual "Run workflow" button
+  schedule:
+    # Automatically triggers a fresh runner every 6 hours (enables 24x7 loop)
+    - cron: '0 */6 * * *'
+  
+  workflow_dispatch: # Keeps the manual "Run workflow" button available
 
 jobs:
-  run-bot-job:
+  run-bot-loop:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository Code
@@ -19,7 +23,7 @@ jobs:
         run: |
           pip install requests
 
-      - name: Run Script with Hidden Secrets
+      - name: Run 24x7 Script with Hidden Secrets
         env:
           SECRET_KEY: ${{ secrets.SECRET_KEY }}
           PROXY_USER: ${{ secrets.PROXY_USER }}
