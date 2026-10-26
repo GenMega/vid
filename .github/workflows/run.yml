@@ -23,10 +23,10 @@ jobs:
         run: |
           pip install requests
 
-      - name: Run 24x7 Script with Hidden Secrets
+      - name: Run 24x7 Script with Live Logs
         env:
           SECRET_KEY: ${{ secrets.SECRET_KEY }}
           PROXY_USER: ${{ secrets.PROXY_USER }}
           PROXY_PASS: ${{ secrets.PROXY_PASS }}
         run: |
-          python bot.py
+          python -u bot.py
