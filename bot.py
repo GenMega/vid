@@ -120,8 +120,8 @@ def main():
         send_collect_request()
 
         # Wait 50 seconds before making the next request
-        print("[*] Waiting 50 seconds before next request...")
-        time.sleep(50)
+        print("[*] Waiting 27 seconds before next request...")
+        time.sleep(27)
 
 
 if __name__ == "__main__":
