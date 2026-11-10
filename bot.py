@@ -26,7 +26,21 @@ VIDEOS = {
     "https://vidbunker.in/watch/jnJV2h4b7": 6073,  # 2 hours 45 minutes (9,900s)
     "https://vidbunker.in/watch/tgUeCMCmb": 4714,  # 2 hours 45 minutes (9,900s)
     "https://vidbunker.in/watch/ebY88kIWG": 5750,  # 25 minutes (1,500s)
-    "https://vidbunker.in/watch/ldwf9khXZ": 6809,    # 1 hour 51 minutes (6,660s)
+    "https://vidbunker.in/watch/ldwf9khXZ": 6809, # 1 hour 51 minutes (6,660s)
+    "https://vidbunker.in/watch/QY6g9p47U": 6299,   # 1 hour 24 minutes (5,040s)
+    "https://vidbunker.in/watch/dGTfUkjAP": 5248,  # 2 hours 45 minutes (9,900s)
+    "https://vidbunker.in/watch/hb94gyXeC": 5083,  # 2 hours 45 minutes (9,900s)
+    "https://vidbunker.in/watch/CfIxUNmTj": 1744,  # 25 minutes (1,500s)
+    "https://vidbunker.in/watch/TBpVDoXWm": 7937, # 1 hour 51 minutes (6,660s)
+    "https://vidbunker.in/watch/zfuCfIU9S": 5928,   # 1 hour 24 minutes (5,040s)
+    "https://vidbunker.in/watch/e5WPouYyu": 6292,  # 2 hours 45 minutes (9,900s)
+    "https://vidbunker.in/watch/t1UZlZUGf": 6766,  # 2 hours 45 minutes (9,900s)
+    "https://vidbunker.in/watch/UXZJxsKBi": 5629,  # 25 minutes (1,500s)
+    "https://vidbunker.in/watch/14jDDQ7fH": 6217, # 1 hour 51 minutes (6,660s)
+    "https://vidbunker.in/watch/RLK6zNOnf": 6589,   # 1 hour 24 minutes (5,040s)
+    "https://vidbunker.in/watch/suSxihVze": 6731,  # 2 hours 45 minutes (9,900s)
+    "https://vidbunker.in/watch/HJx0q8KV3": 6439,  # 2 hours 45 minutes (9,900s)
+    "https://vidbunker.in/watch/rTftMpy61": 6449,  # 25 minutes (1,500s)
 }
 
 
